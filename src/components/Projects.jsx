@@ -34,8 +34,8 @@ export default function Projects() {
       title: "Portfolio Website",
       image: "https://via.placeholder.com/400x250.png?text=Portfolio+Website",
       tech: [<SiReact />, <SiCss3 />, <SiJavascript />],
-      github: "#",
-      live: "#",
+      github: "https://github.com/RajuKhorwal/RK-PortFolio",
+      live: "https://rk-portfolio-clmm.onrender.com",
       description:
         "My personal portfolio website showcasing projects and skills.",
     },
