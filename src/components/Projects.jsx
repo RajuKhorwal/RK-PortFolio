@@ -19,7 +19,7 @@ export default function Projects() {
       github: "https://github.com/RajuKhorwal/pglife-property-management",
       live: "https://pglife-property-management-frontend.onrender.com",
       description:
-        "A web application to plan trips, manage budgets, and track itineraries.",
+        "A property management web application for students.",
     },
     {
       title: "RKShop - E-commerce Platform",
@@ -40,7 +40,16 @@ export default function Projects() {
         "My personal portfolio website showcasing projects and skills.",
     },
     {
-      title: "TextUtils - Text Manipulation Tool",
+      title: "RKNEWS -App for Latest News",
+      image: "/projects/RKNews.png",
+      tech: [<SiReact />, <SiCss3 />, <SiJavascript />],
+      github: "https://github.com/RajuKhorwal/RKNews",
+      live: "https://rknews.onrender.com",
+      description:
+        "A news application that provides the latest news articles from various sources.",
+    },
+    { 
+      title: "TextUtils - Text Manipulation Tool",  
       image: "/projects/TextUtils.png",
       tech: [<SiReact />, <SiCss3 />, <SiJavascript />],
       github: "https://github.com/RajuKhorwal/TextUtils",

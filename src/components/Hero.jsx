@@ -29,7 +29,7 @@ export default function Hero() {
           className="flex justify-center gap-4"
         >
           <a
-            href="/resume.pdf"
+            href="/Khorwal_Raju_Resume.pdf"
             className="px-6 py-3 bg-blue-500 text-white rounded-xl hover:bg-blue-600"
           >
             Download Resume
