@@ -32,7 +32,7 @@ export default function Projects() {
     },
     {
       title: "Portfolio Website",
-      image: "https://via.placeholder.com/400x250.png?text=Portfolio+Website",
+      image: "/projects/portfolio.png",
       tech: [<SiReact />, <SiCss3 />, <SiJavascript />],
       github: "https://github.com/RajuKhorwal/RK-PortFolio",
       live: "https://rk-portfolio-clmm.onrender.com",
